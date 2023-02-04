@@ -1,0 +1,10 @@
+ion-title {
+    --color:#3880ff;
+    text-align:center;
+    font-size: x-large;
+    
+}
+  
+ion-toolbar {
+    --background: #f8f5f5f1;
+}
